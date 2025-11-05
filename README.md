@@ -29,11 +29,6 @@ npm run anchor-test
 npm run anchor deploy --provider.cluster devnet
 ```
 
-### web
-
-This is a React app that uses the Anchor generated client to interact with the Solana program.
-
-#### Commands
 
 Start the app
 
